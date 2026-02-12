@@ -1,0 +1,432 @@
+{
+  "theses": [
+    {
+      "id": "1",
+      "name": "AI Infrastructure Buildout: Power, Semiconductors, and Data Centers",
+      "description": "Data centers need 175%+ additional power by 2030, semiconductor capacity is sold out 12+ months ahead, and data center vacancy rates hit record lows of 1.6%. Infrastructure investments are transitioning from discretionary spending to critical national security assets as AI deployment accelerates across developed and emerging markets.",
+      "keywords": [
+        "AI",
+        "infrastructure",
+        "data centers",
+        "power",
+        "semiconductors",
+        "utilities",
+        "energy"
+      ],
+      "sectors": [
+        "Technology",
+        "Utilities",
+        "Industrials",
+        "Materials",
+        "Energy"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "European Defense & Economic Security Paradigm Shift",
+      "description": "Europe's defense sector transitions from sluggish undervalued market to central government policy focus. NATO commitment to 5% of GDP defense spending by 2035, Germany's fiscal package could increase spending by €80bn (1.8% of GDP) in 2026. Old paradigm of US defense dependence shifts to new paradigm of increased defense spending and fiscal stimulus.",
+      "keywords": [
+        "defense",
+        "Europe",
+        "security",
+        "infrastructure",
+        "Germany",
+        "fiscal stimulus",
+        "NATO"
+      ],
+      "sectors": [
+        "Industrials",
+        "Aerospace & Defense",
+        "Technology",
+        "Materials"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Global Supply Chain Resilience & Onshoring",
+      "description": "Economic fragmentation drives fundamental shift toward resilience, security, and regional alignment. Reshoring and nearshoring accelerate across North America, Europe, and Asia. Investment opportunities in sectors benefiting from supply chain reconfiguration including semiconductors, critical minerals, logistics, and manufacturing.",
+      "keywords": [
+        "onshoring",
+        "nearshoring",
+        "supply chain",
+        "resilience",
+        "regionalization",
+        "manufacturing"
+      ],
+      "sectors": [
+        "Industrials",
+        "Technology",
+        "Materials",
+        "Transportation",
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Private Credit: Middle Market Opportunity in Transition",
+      "description": "Private credit returns expected at 5.4% in 2026 (down from 9% in 2025) as market matures. However, middle market opportunities remain attractive with $120bn expected supply, specialized niches commanding higher premiums. Energy transition sector shows significant supply/demand imbalance with only $61bn raised vs $781bn for sustainable private equity since 2014.",
+      "keywords": [
+        "private credit",
+        "middle market",
+        "direct lending",
+        "energy transition",
+        "mezzanine"
+      ],
+      "sectors": [
+        "Financials",
+        "Alternative Investments"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Tech Concentration Unwind: Broadening Bull Market",
+      "description": "After years of extreme concentration, equity markets showing signs of broadening. S&P 500's top 7 stocks contribute 46% of 2026 EPS growth (down from 50% in 2025). Value stocks (financials, defense, utilities) outperforming. Small and mid-cap revival as rate cuts benefit rate-sensitive sectors and M&A activity accelerates.",
+      "keywords": [
+        "broadening",
+        "value",
+        "small cap",
+        "mid cap",
+        "diversification",
+        "rotation"
+      ],
+      "sectors": [
+        "Financials",
+        "Industrials",
+        "Energy",
+        "Materials",
+        "Small Cap"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Emerging Markets: China Export Strength & India Demographics",
+      "description": "China demonstrates export resilience despite trade headwinds, with losses in US offset by gains in emerging markets. Technology and auto sectors showing 40%+ and 80%+ profit growth respectively. India benefits from strong GDP growth, surging digital payments (3x since 2021), and favorable demographics (65% under 35, median age 28).",
+      "keywords": [
+        "China",
+        "India",
+        "emerging markets",
+        "exports",
+        "demographics",
+        "technology"
+      ],
+      "sectors": [
+        "Technology",
+        "Consumer",
+        "Financials",
+        "Industrials"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Circular Economy & Resource Efficiency",
+      "description": "Waste, water, and recycling sectors involve contracted essential services largely insulated from macro fluctuations. Opportunities in relatively undercapitalized middle market. Businesses converting organic waste to biomethane/fertilizer, water efficiency sensors, and environmental compliance systems gaining prominence as companies prioritize efficiency and cost savings.",
+      "keywords": [
+        "circular economy",
+        "waste",
+        "water",
+        "recycling",
+        "sustainability",
+        "efficiency"
+      ],
+      "sectors": [
+        "Industrials",
+        "Utilities",
+        "Materials"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Commercial Real Estate Recovery: Quality Bifurcation",
+      "description": "After 3 years of muted activity, commercial real estate poised for rebound as cap rates stabilize, construction starts dropped since 2022, and transaction activity picks up. Clear bifurcation: prime assets (new, well-located, energy-efficient) vs distressed assets. Office sector under most strain ($57B distressed US) but prime CBD assets seeing 54% YoY transaction increase.",
+      "keywords": [
+        "real estate",
+        "commercial",
+        "office",
+        "industrial",
+        "multifamily",
+        "REIT"
+      ],
+      "sectors": [
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "High-Quality Fixed Income Renaissance: Bonds Are Back",
+      "description": "After years in the wilderness, high-quality bonds offer compelling real returns with neutral rate projected around 4% over the next decade. Bond yields reset from ~1% (2020) to 4.3% (2026) on Bloomberg US Aggregate. Vanguard research shows strongest risk-return profile is high-quality US fixed income, followed by US value equities and non-US developed markets.",
+      "keywords": [
+        "bonds",
+        "fixed income",
+        "treasuries",
+        "investment grade",
+        "credit",
+        "yields"
+      ],
+      "sectors": [
+        "Financials - Fixed Income"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Emerging Market Debt: Hard & Local Currency Opportunities",
+      "description": "Weaker US dollar, lower US rates, and effective EM fiscal/monetary policy improving economic resilience. EM hard currency debt particularly attractive with overweight recommendation. Fed easing enables EM rate cuts without significant currency weakness, benefiting both external and local debt.",
+      "keywords": [
+        "emerging markets",
+        "EM debt",
+        "hard currency",
+        "local currency",
+        "sovereign",
+        "dollar"
+      ],
+      "sectors": [
+        "Financials - Fixed Income"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Japanese Equity Revival: Reflation & Corporate Reform",
+      "description": "Japanese equities supported by moderating inflation, stable monetary policy, potential increased fiscal support from Takaichi government. Corporate capex and consumer spending fueled by wage growth driving earnings. Corporate governance reforms unlocking shareholder value through dividends and buybacks.",
+      "keywords": [
+        "Japan",
+        "equities",
+        "corporate governance",
+        "tourism",
+        "yen",
+        "reform"
+      ],
+      "sectors": [
+        "Japanese Equities"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "US Deregulation Beneficiaries: Financials, Energy, Pharma",
+      "description": "Trump administration pursuing economic policy focused on deregulation. Potential catalysts for sectors including financials (banking reform), energy (drilling/LNG), and pharmaceuticals (FDA streamlining). Regulatory agenda becoming bigger focus as Congress turns to midterms.",
+      "keywords": [
+        "deregulation",
+        "financials",
+        "energy",
+        "pharma",
+        "banks",
+        "policy"
+      ],
+      "sectors": [
+        "Financials",
+        "Energy",
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Middle East Diversification & Infrastructure",
+      "description": "Economic reforms alongside diversification beyond oil generating new investment opportunities across GCC countries. Themes include digitalization and infrastructure investment underpinning corporate earnings. Saudi Arabia, Qatar, and UAE largely unaffected by regional tensions.",
+      "keywords": [
+        "Middle East",
+        "GCC",
+        "Saudi Arabia",
+        "UAE",
+        "Qatar",
+        "infrastructure",
+        "diversification"
+      ],
+      "sectors": [
+        "Diversified",
+        "Infrastructure",
+        "Real Estate"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Climate Adaptation & Physical Risk Management",
+      "description": "Rising temperatures and extreme weather events driving focus on physical risk and adaptation rather than just mitigation. Investment opportunities in companies providing adaptation solutions: HVAC, water infrastructure, coastal defense, food production, disaster risk management. Insurance costs rising and infrastructure capex increasing for resilience.",
+      "keywords": [
+        "climate",
+        "adaptation",
+        "resilience",
+        "infrastructure",
+        "weather",
+        "insurance"
+      ],
+      "sectors": [
+        "Industrials",
+        "Utilities",
+        "Real Estate",
+        "Financials"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Sustainable Food & Agriculture Technology",
+      "description": "Sustainable food and agriculture emerging as investor focus beyond economic security and energy transition. Businesses prioritizing efficiency and cost savings through agricultural technology, precision farming, alternative proteins. Climate volatility driving need for resilient food production systems.",
+      "keywords": [
+        "agriculture",
+        "food",
+        "agtech",
+        "sustainability",
+        "precision farming"
+      ],
+      "sectors": [
+        "Consumer Staples",
+        "Technology",
+        "Materials"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Green Bonds & Sustainable Fixed Income",
+      "description": "Green bond market providing significant portfolio diversification without sacrificing liquidity or returns. Market continues to grow with different sector composition vs conventional fixed income, providing diversification benefits. Demand for debt financing for renewable projects creating opportunities.",
+      "keywords": [
+        "green bonds",
+        "ESG",
+        "renewable",
+        "sustainable",
+        "climate finance"
+      ],
+      "sectors": [
+        "Financials - Fixed Income"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Private Equity Middle Market: Value-Add Opportunities",
+      "description": "Private equity showing positive outlook despite mature market. Middle market value-add infrastructure and middle market companies offer better-priced deals, negotiation flexibility, and strong exit optionality vs mega-cap space. Private equity performance can be captured through factor tilts, leverage understanding, and sector selection.",
+      "keywords": [
+        "private equity",
+        "middle market",
+        "value-add",
+        "buyouts",
+        "growth equity"
+      ],
+      "sectors": [
+        "Alternative Investments"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Commodities & Base Metals: Tight Supply Meets Strong Demand",
+      "description": "Base metals experiencing tight supply conditions with higher demand from manufacturing, construction, and electrification. Copper critical for power infrastructure and EVs. Bank of America expects continued supply challenges in 2026 despite tepid demand from traditional sectors.",
+      "keywords": [
+        "commodities",
+        "copper",
+        "metals",
+        "mining",
+        "electrification"
+      ],
+      "sectors": [
+        "Materials",
+        "Energy"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Healthcare Innovation: AI-Enabled Biotech & Medical Technology",
+      "description": "Healthcare sector benefiting from AI integration in drug discovery, diagnostics, and treatment planning. Biotech innovation accelerating with AI/ML tools. Medical devices incorporating advanced technology. Aging demographics across developed markets driving healthcare demand.",
+      "keywords": [
+        "healthcare",
+        "biotech",
+        "medical devices",
+        "AI",
+        "pharma",
+        "diagnostics"
+      ],
+      "sectors": [
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Cybersecurity & Digital Defense",
+      "description": "Economic security theme includes cybersecurity alongside traditional defense and energy security. Increasing capital investment in cybersecurity with growing earnings potential. Critical infrastructure protection, cloud security, and AI-powered threat detection becoming essential investments.",
+      "keywords": [
+        "cybersecurity",
+        "defense",
+        "cloud security",
+        "AI security",
+        "infrastructure"
+      ],
+      "sectors": [
+        "Technology",
+        "Industrials"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Inflation Protection & TIPS",
+      "description": "Inflation undergoing structural shift - higher and more volatile than pre-pandemic. Maintaining purchasing power critical goal. Inflation-linked bonds offer protection. Traditional 60/40 portfolios showed increased volatility in higher inflation regime (7% pre-COVID to 12% post-COVID).",
+      "keywords": [
+        "inflation",
+        "TIPS",
+        "real assets",
+        "commodities",
+        "inflation protection"
+      ],
+      "sectors": [
+        "Financials - Fixed Income",
+        "Real Assets"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Active ETF Revolution: Fixed Income & Private Assets",
+      "description": "Active ETF assets growing 46% annually since 2020, with particularly strong growth in fixed income (41% of US-listed fixed income ETF inflows). Active approach valuable for navigating structural inefficiencies. Innovation bringing private asset exposure through ETF structures.",
+      "keywords": [
+        "ETF",
+        "active management",
+        "fixed income",
+        "private assets",
+        "innovation"
+      ],
+      "sectors": [
+        "Financials - Asset Management"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "M&A Revival & Dealmaking Acceleration",
+      "description": "Global dealmaking showing strong recovery signs extending into 2026. US M&A increased significantly in 2025 vs 2024. 15% expected increase in completed US M&A deals in 2026. European M&A rebounding above historical averages. Greater dealmaking spurring private equity activity and private credit demand.",
+      "keywords": [
+        "M&A",
+        "dealmaking",
+        "private equity",
+        "investment banking",
+        "consolidation"
+      ],
+      "sectors": [
+        "Financials",
+        "All Sectors"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Dollar Decline & Non-USD Opportunities",
+      "description": "Significant USD depreciation in 2025 driven by US policy uncertainty and increasing budget deficit. More procyclical flavor to global FX with still modestly USD bearish view. Hawkish Fed shift main risk. Non-USD investments benefiting from currency tailwinds. Particularly relevant for US-based investors.",
+      "keywords": [
+        "dollar",
+        "currency",
+        "FX",
+        "USD",
+        "international",
+        "hedging"
+      ],
+      "sectors": [
+        "All International"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Tail Risk Hedging & Portfolio Protection",
+      "description": "Late-cycle risks and hedges important as AI impacts growth, inflation, and capex create volatility. Stock correlations fallen creating alpha opportunities but also requiring protection. Gold, volatility strategies, and equity volatility exposure providing portfolio insurance. Options strategies for downside protection.",
+      "keywords": [
+        "tail risk",
+        "hedging",
+        "volatility",
+        "protection",
+        "gold",
+        "options"
+      ],
+      "sectors": [
+        "Alternative Strategies"
+      ]
+    }
+  ]
+}

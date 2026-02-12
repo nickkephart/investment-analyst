@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project-specific
+*.db
+*.log
+config.yaml
+.env
+
+# Personal/sensitive data
+*.csv
+
+# Large binaries
+*.pdf

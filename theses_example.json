@@ -1,0 +1,11 @@
+{
+  "theses": [
+    {
+      "id": "1",
+      "name": "Example Thesis",
+      "description": "Sample thesis for testing - replace with your theses",
+      "keywords": ["growth", "value"],
+      "sectors": ["Technology", "Healthcare"]
+    }
+  ]
+}
